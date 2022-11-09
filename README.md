@@ -11,7 +11,6 @@ Now that I started creating content for the web I can't stop learning more and m
 
 ## Languages and Tools
 
-## Languages and Tools
 <div>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -40,6 +39,13 @@ Now that I started creating content for the web I can't stop learning more and m
         alt="javascript"
         width="30"
       />
+    </a>
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/typescript"
+      target="_blank"
+      rel="noreferrer"
+    >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     </a>
     &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -74,13 +80,6 @@ Now that I started creating content for the web I can't stop learning more and m
       />
     </a>
     &nbsp;
-    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://user-images.githubusercontent.com/93733677/187199611-72d12457-21a3-4b54-94a7-52fa253863bb.svg"
-        alt="supabase"
-        width="30"
-      />
-    </a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
