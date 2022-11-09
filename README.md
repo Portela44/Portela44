@@ -135,7 +135,7 @@ Now that I started creating content for the web I can't stop learning more and m
   <a href="https://guillermomartinportela.com/" target="blank"
     ><img
       align="center"
-      src="./media/foto-perfil.png"
+      src="../media/foto-perfil.png"
       alt="portela44icon"
       width="24"
     />
