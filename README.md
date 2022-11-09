@@ -46,7 +46,7 @@ Now that I started creating content for the web I can't stop learning more and m
       rel="noreferrer"
     >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
-        width="37"/>
+        width="34"/>
     </a>
     &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
