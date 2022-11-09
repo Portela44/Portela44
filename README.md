@@ -45,7 +45,8 @@ Now that I started creating content for the web I can't stop learning more and m
       target="_blank"
       rel="noreferrer"
     >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
+        width="37"/>
     </a>
     &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -116,7 +117,6 @@ Now that I started creating content for the web I can't stop learning more and m
 </div>
 
 ## GitHub Stats
-
 <div align="center">
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=alanch8&show_icons=true&locale=en&hide=issues" alt="Aitor Lancharro Github Stats" />
  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanch8&layout=compact" alt="Aitor Lancharro Programming Language Stats" />
