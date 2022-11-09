@@ -46,7 +46,7 @@ Now that I started creating content for the web I can't stop learning more and m
       rel="noreferrer"
     >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
-        width="37"/>
+        width="30"/>
     </a>
     &nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -118,43 +118,25 @@ Now that I started creating content for the web I can't stop learning more and m
 
 ## GitHub Stats
 <div align="center">
- <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=alanch8&show_icons=true&locale=en&hide=issues" alt="Aitor Lancharro Github Stats" />
- <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanch8&layout=compact" alt="Aitor Lancharro Programming Language Stats" />
+ <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=Portela44&show_icons=true&locale=en&hide=issues" alt="Guillermo Martin Github Stats" />
+ <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portela44&layout=compact" alt="Guillermo Martín Programming Language Stats" />
 </div>
 
 ## Contact Me
 <p align="center">
-  <a href="https://linkedin.com/in/aitorlancharrohurtado" target="blank"
+  <a href="https://linkedin.com/in/gmartinportela" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="aitorlancharrohurtado"
+      alt="guillermomartinportela"
       width="24"
     />
-  </a>
-  &nbsp;<a href="https://twitter.com/alanch_8" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="alanch_8"
-      width="24"
-    />
-  </a>
   &nbsp;
-  <a href="https://instagram.com/alanch8" target="blank"
+  <a href="https://guillermomartinportela.com/" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="alanch8"
-      width="24"
-    />
-  </a>
-  &nbsp;
-  <a href="https://aitorlancharro.com/" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg"
-      alt="alanch8"
+      src="./media/foto-perfil.png"
+      alt="portela44icon"
       width="24"
     />
   </a>
