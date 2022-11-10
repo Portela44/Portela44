@@ -3,7 +3,7 @@
 
 For the last 4 years I've been working as a Product Manager, learning and understanding the most efficient and reliable ways of delivering products that customers love. 
 
-For me, moving to the digital world is a natural follow-up to pursue this Product vocation: agile methodologies was what brought me to programming, but continous learning and digital market competitivity is what moves me and make me keep asking for more!
+For me, moving to the digital world is a natural follow-up to pursue this Product vocation: agile methodologies was what brought me to programming, but continous learning and digital market competitivity is what moves me and makes me keep asking for more!
 
 Now that I started creating content for the web I can't stop learning more and more to build my own projects as bright and competitive as possible.
 
